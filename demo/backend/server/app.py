@@ -4,6 +4,7 @@
 # LICENSE file in the root directory of this source tree.
 
 import logging
+import os
 from typing import Any, Generator
 
 from app_conf import (
@@ -139,4 +140,5 @@ app.add_url_rule(
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    port = int(os.getenv("PORT", 7263))
+    app.run(host="0.0.0.0", port=port)
