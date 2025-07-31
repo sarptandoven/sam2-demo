@@ -22,9 +22,9 @@ export type TrackerOptions = {
 };
 
 export type Trackers = {
-  'SAM 2': typeof SAM2Model;
+  'Magic Hour Remix Anything': typeof SAM2Model;
 };
 
 export const TRACKER_MAPPING: Trackers = {
-  'SAM 2': SAM2Model,
+  'Magic Hour Remix Anything': SAM2Model,
 };

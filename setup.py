@@ -10,7 +10,7 @@ from setuptools import find_packages, setup
 # Package metadata
 NAME = "SAM-2"
 VERSION = "1.0"
-DESCRIPTION = "SAM 2: Segment Anything in Images and Videos"
+DESCRIPTION = "Magic Hour Remix Anything: Interactive Video Segmentation"
 URL = "https://github.com/facebookresearch/sam2"
 AUTHOR = "Meta AI"
 AUTHOR_EMAIL = "segment-anything@meta.com"

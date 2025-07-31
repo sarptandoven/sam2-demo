@@ -22,7 +22,7 @@ export default function LimitNotice() {
         <InformationFilled size={32} />
       </div>
       <div className="text-sm leading-snug">
-        In this demo, you can track up to 3 objects, even though the SAM 2 model
+        In this demo, you can track up to 3 objects, even though the Magic Hour Remix Anything model
         does not have a limit.
       </div>
     </div>

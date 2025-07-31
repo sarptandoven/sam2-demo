@@ -1,6 +1,6 @@
-# SAM2 - Segment Anything Model 2
+# Magic Hour Remix Anything - Interactive Video Segmentation
 
-SAM2 is Meta's latest iteration of the Segment Anything Model, designed for interactive video object segmentation and tracking.
+Magic Hour Remix Anything is the latest iteration of the Magic Hour segmentation model, designed for interactive video object segmentation and tracking.
 
 ## Quick Start
 

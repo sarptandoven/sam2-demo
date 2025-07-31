@@ -20,16 +20,16 @@ type EffectLayers = {
   highlight: keyof Effects;
 };
 
-export const DEMO_SHORT_NAME = 'SAM 2 Demo';
-export const RESEARCH_BY_META_AI = 'By Meta FAIR';
-export const DEMO_FRIENDLY_NAME = 'Segment Anything 2 Demo';
+export const DEMO_SHORT_NAME = 'Magic Hour Remix Anything Demo';
+export const RESEARCH_BY_META_AI = 'By Magic Hour AI';
+export const DEMO_FRIENDLY_NAME = 'Magic Hour Remix Anything Demo';
 export const VIDEO_WATERMARK_TEXT = ``;
 export const PROJECT_GITHUB_URL =
-  'https://github.com/facebookresearch/sam2';
-export const AIDEMOS_URL = 'https://aidemos.meta.com';
-export const ABOUT_URL = 'https://ai.meta.com/sam2';
-export const EMAIL_ADDRESS = 'segment-anything@meta.com';
-export const BLOG_URL = 'http://ai.meta.com/blog/sam2';
+  'https://github.com/magichour/magic-hour-remix-anything';
+export const AIDEMOS_URL = 'https://magichour.ai';
+export const ABOUT_URL = 'https://magichour.ai';
+export const EMAIL_ADDRESS = 'magic-hour@magichour.ai';
+export const BLOG_URL = 'https://magichour.ai/blog';
 
 export const VIDEO_API_ENDPOINT = 'http://localhost:7263';
 export const INFERENCE_API_ENDPOINT = 'http://localhost:7263';

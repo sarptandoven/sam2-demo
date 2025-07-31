@@ -166,7 +166,7 @@ export default function DemoVideoEditor({video: inputVideo}: Props) {
 
     video?.addEventListener('renderingError', onRenderingError);
 
-    video?.initializeTracker('SAM 2', {
+            video?.initializeTracker('Magic Hour Remix Anything', {
       inferenceEndpoint: settings.inferenceAPIEndpoint,
     });
 
